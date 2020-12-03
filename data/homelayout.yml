@@ -25,50 +25,18 @@ home_sections:
   image: https://res.cloudinary.com/hungryram19/image/upload/v1606966579/kalvin-tsui/swaye-realty/kalvin-tsui_lzdudj.jpg
   image_alt_tag: Kalvin Tsui
   image_width: '400'
-- template: featured-boxes
-  heading: Featured Communities
-  body: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro optio fugit
-    non delectus eos, quas, dolorem alias '
-  featured:
-  - image: https://res.cloudinary.com/hungryram19/image/upload/v1605402922/templates/realestate2/losangeles_z6wp8g.jpg
-    link: "/contact"
-    heading: Los Angeles
-  - heading: Whittier
-    image: https://res.cloudinary.com/hungryram19/image/upload/v1605402939/templates/realestate2/livingroom_az8tp4.jpg
-    link: "/contact"
-  - heading: Corona
-    image: https://res.cloudinary.com/hungryram19/image/upload/v1605402970/templates/realestate2/sidekix-media-l6u4GIKvxBs-unsplash_qipkhd.jpg
-    link: "/contact"
 - template: text-and-contact-form
-  heading: We help you buy or sell your property quickly
-  body: Engage with our professional real estate agents to sell, buy or rent your
-    home. Get emails directly to your inbox and manage the lead as you wish.
-  background_image: https://res.cloudinary.com/hungryram19/image/upload/v1605403006/templates/realestate2/clean-living-room_b3bubn.jpg
+  heading: Our Mission Statement
+  body: To be a trusted partner in your real estate endeavors. You, the client comes
+    first. We pledge to keep in constant communication throughout the entire buying
+    or selling process. So at the end of the day you, our client, can make informed
+    decisions that are best for you and yours.
   form:
     heading: Send a message
-    body: Engage with our professional real estate agents to sell, buy or rent your
-      home. Get emails directly to your inbox and manage the lead as you wish.
+    body: ''
   background_color: "#424242"
   enable_white_text: true
-- template: tiles
-  heading: Featured Areas
-  body: View our best homes
-  tile_one:
-    heading: Feature One
-    image: ''
-    link: https://google.com
-  tile_two:
-    heading: Feature Two
-    image: ''
-    link: "/contact"
-  tile_three:
-    heading: Feature Three
-    image: ''
-    link: "/contact"
-  tile_four:
-    heading: Feature Four
-    image: ''
-    link: "/team"
+  background_image: https://res.cloudinary.com/hungryram19/image/upload/v1607016271/kalvin-tsui/swaye-realty/livingroom1_nwfsnb.jpg
 - template: home-blog
   heading: Our Blog
   body: Keep up with latest posts
