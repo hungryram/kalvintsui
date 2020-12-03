@@ -24,7 +24,7 @@ home_sections:
   button_link: "/our-team"
   image: https://res.cloudinary.com/hungryram19/image/upload/v1606966579/kalvin-tsui/swaye-realty/kalvin-tsui_lzdudj.jpg
   image_alt_tag: Kalvin Tsui
-  image_width: '400'
+  image_width: '500'
 - template: text-and-contact-form
   heading: Our Mission Statement
   body: To be a trusted partner in your real estate endeavors. You, the client comes
