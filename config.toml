@@ -7,7 +7,6 @@ url = "/"
 weight = 1
 [[menu.main]]
 name = "Blog"
-parent = "Resources"
 url = "/blog"
 weight = 4
 [[menu.main]]
