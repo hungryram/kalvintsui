@@ -9,18 +9,22 @@ slideshow:
   enable_white_text: true
 home_sections:
 - template: text-and-image
-  heading: Discover Our Finest Homes
-  body: Each section of the home page can be arranged and customized through your
-    phone or computer. Easily manage your website through our website editor customized
-    specifically for real estate professionals.
+  heading: Kalvin Tsui
+  body: A Southern California native, Kalvin is familiar with the real estate market
+    throughout the greater Los Angeles area and Orange County. Upon graduating from
+    UCLA he has resided in multiple cities gaining insights on the values and cultures
+    of each individual city and the people residing in them. Backed with knowledge
+    from his studies and a natural ability to connect with people, he has brokered
+    many deals for his clients in both residential and commercial real estate. Kalvin
+    prides himself in providing the best customer service and serving his clients
+    with the utmost respect and integrity for their needs. His main goal is to make
+    every instance feels seamless for his clients, ensuring that they have a smooth
+    and positive experience.
   button: Read more
   button_link: "/our-team"
-  image: https://res.cloudinary.com/hungryram19/image/upload/v1605402573/templates/realestate2/agent-4_ovchvb.jpg
-  image_alt_tag: John
+  image: https://res.cloudinary.com/hungryram19/image/upload/v1606966579/kalvin-tsui/swaye-realty/kalvin-tsui_lzdudj.jpg
+  image_alt_tag: Kalvin Tsui
   image_width: '400'
-- template: active-listings
-  heading: Active Listings
-  body: View active listings in the office
 - template: featured-boxes
   heading: Featured Communities
   body: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro optio fugit
@@ -35,9 +39,6 @@ home_sections:
   - heading: Corona
     image: https://res.cloudinary.com/hungryram19/image/upload/v1605402970/templates/realestate2/sidekix-media-l6u4GIKvxBs-unsplash_qipkhd.jpg
     link: "/contact"
-- template: home-agent
-  heading: Our Team
-  body: Helpful agents that will guide you in the real estate market
 - template: text-and-contact-form
   heading: We help you buy or sell your property quickly
   body: Engage with our professional real estate agents to sell, buy or rent your
